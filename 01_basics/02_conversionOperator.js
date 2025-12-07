@@ -20,6 +20,3 @@ console.log(1 + 2 + "3"); // here output will be 33
 
 console.log(+true);
 console.log(+"");
-
-
-
